@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.thymeleaf.resources.static-locations",
+      "type": "java.lang.String",
+      "description": "Description for spring.thymeleaf.resources.static-locations."
+    },
+    {
+      "name": "spring.thymeleaf.resources.cache.period",
+      "type": "java.lang.String",
+      "description": "Description for spring.thymeleaf.resources.cache.period."
+    }
+  ] }
