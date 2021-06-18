@@ -42,6 +42,7 @@ public class Alquiler {
 	@JoinColumn(name = "habitacion_id", nullable = false)
 	private Habitacion habitacion;
 
+
 	public Integer getId() {
 		return id;
 	}
